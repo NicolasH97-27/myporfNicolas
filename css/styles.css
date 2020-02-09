@@ -8,15 +8,16 @@ body{
     background: brown;
     background-size:100% ;
     background-repeat: no-repeat;
-    min-height: 500px;
+    min-height: 400px;
 }
 
 #About{
-    margin-top: -200px;
+    margin-top: -250px;
 }
 
 #About .fa{
-    color: #fff
+    color: #000;
+    font-size: 20px;
 }
 
 #About span{
